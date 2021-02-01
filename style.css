@@ -358,7 +358,6 @@ iframe {
     .classics iframe {
         width: 100%;
     }
-}
 
 #name,
 #email,
@@ -408,6 +407,4 @@ textarea {
     width: 85%;
     height: auto;
 }
-
-
-}
+    }
